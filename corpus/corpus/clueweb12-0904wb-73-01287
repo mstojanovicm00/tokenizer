@@ -1,0 +1,433 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2012-03-13T08:11:56Z
+WARC-TREC-ID: clueweb12-0904wb-73-01287
+WARC-Target-URI: http://www.visitlex.com/idea/civil-war.php
+WARC-Payload-Digest: sha1:SCPV7PXH32BCIRWNJGKYNFK7YZHGTRPK
+WARC-IP-Address: 69.163.130.61
+WARC-Record-ID: <urn:uuid:57edab51-a29c-4dff-ac1e-390af5371b68>
+Content-Type: application/http; msgtype=response
+Content-Length: 31029
+
+HTTP/1.1 200 OK
+Date: Tue, 13 Mar 2012 08:12:03 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Length: 30730
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/idea.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Civil War Heritage: Lexington, KY CVB</title>
+	<!-- InstanceEndEditable -->
+   
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+	<link rel="shortcut icon" type="image/ico" href="../images/favicon.ico" />
+	
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/ui.tabs.pack.js"></script>
+	
+	<script type="text/javascript" src="../js/swfobject.js"></script>
+	
+	<script type="text/javascript" src="../js/calendar.js"></script>
+	
+	<script type="text/javascript" src="../js/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="../js/jquery.pngFix.js"></script>
+	
+	<script type="text/javascript" src="../js/ajax/planner.js"></script>
+	
+	<script type="text/javascript" src="../js/thickbox.js"></script>
+
+	<script type="text/javascript">
+    	<!-- swfobject.registerObject("vid", "9.0.0"); -->
+	</script>
+
+	<script type="text/javascript">
+		
+	$(document).ready(function() {	
+		$("#gallery a").fancybox({
+ 			'zoomSpeedIn': 500,
+ 			'zoomSpeedOut': 500,
+ 			'overlayShow': true
+ 		});
+ 		$(document).pngFix();
+	});
+	</script>
+	
+	<style media="screen" type="text/css">
+		@import "../css/master.css";
+	</style>
+	
+	<style media="screen" type="text/css">
+		@import "../css/tabs.css";
+	</style>
+	
+	<style media="screen" type="text/css">
+		@import "../css/calendar_style.css";
+	</style>
+	
+	<style media="screen" type="text/css">
+		@import "../css/fancy.css";
+	</style>
+	
+	<script type="text/javascript">
+		$(function() {	
+			$('ul#h-tabs').tabs({ fx: { opacity: 'toggle' } });
+		});
+		
+		
+		function toogle(element) {
+	    	$("#details-"+ element).slideToggle("fast");
+    	};
+	</script>
+	
+	<!-- InstanceBeginEditable name="head" -->	<!-- InstanceEndEditable -->
+
+</head>
+
+<body class="sub" onload='navigate("","")'>
+	<div id="wrapper">
+		<div id="main-content">
+		
+			<div id="subheader">
+	
+	<div id="logo">
+		<h1>Lexington, KY - <em>Horse Capital of the World</em></h1>
+		<a href="/">
+				<img src="/images/logo3.jpg" alt="Home" />
+		</a>
+	</div>
+	<ul id="top-nav">
+		<li><a href="/sports-lexington.php">Sports</a></li>
+		<li><a href="/meetings/index.php">Meetings</a></li>
+		<li><a href="/groups/index.php">Groups</a></li>
+		<li><a href="/media/index.php">Media</a></li>	
+	</ul>
+	
+	<div class="top-search">
+		<!-- Atomz HTML for Search sp1002c49e -->
+		<form method="get" action="http://search.atomz.com/search/">
+			<input type="hidden" name="sp_a" value="sp1002c49e">
+			<label>Site Search: </label><input class="search" name="sp_q"><input type="submit" value="Go">
+			<input type="hidden" name="sp_p" value="all">
+			<input type="hidden" name="sp_f" value="ISO-8859-1">
+		</form>
+	</div>
+	
+	<div id="cart"><span id="number">0</span> items in your <a href="/savelist.php">Planner</a></div></div>
+
+
+
+
+		
+			<hr />
+			
+			<div id="content-sub">
+				
+				<div id="main">
+				
+					<div class="title-sub">
+												
+						<ul id="tabs">
+                        <!-- InstanceBeginEditable name="tabs" -->
+							<li class="selected"><a href="civil-war.php">the idea guide: Civil War</a> </li>
+                            <li><a href="../ideapdf/11-Civil-War.pdf">PDF version</a></li>
+						  <!-- InstanceEndEditable -->
+						</ul>
+						
+						<div class="clear"></div>
+
+					</div>
+
+					
+					<!-- BLOG TAB -->
+					<div id="blog" class="tab-wrap">
+						<div class="main-cont">
+							
+							<div id="sub-title">
+                              <!-- InstanceBeginEditable name="Page-title" -->
+							  <h2>Civil War Heritage <a name="Top" id="Top"></a></h2>
+                              <!-- InstanceEndEditable --></div>
+							
+							<div class="feature">
+                            	<div id="template">
+								<!-- InstanceBeginEditable name="Body" -->
+								<p><strong><em>Explore the History of the Blue and the Gray in the Bluegrass</em></strong></p>
+								<table cellpadding="7" cellspacing="1">
+                                  <tr>
+                                    <td width="595" valign="top" bgcolor="#CAF2FF">Bluegrass Note: Civil War                                    sesquicentennial fever started in April of 2011 with special events commemorating the 150th anniversary of the shots fired at Fort Sumter in April of 1861. <a href="http://history.ky.gov/civilwarnews.php?pageid=147&sectionid=5&cat=all" target="_blank">Click here to learn about events, exhibits and reenactments in Kentucky. </a></td>
+                                  </tr>
+                                </table>
+								<p><br />
+                                    <br />
+                                  The story of the Civil War in Lexington and the Bluegrass is more than a story of battles. It&rsquo;s a story of strong personalities &mdash; of two Presidents, a First Lady, a &quot;lion,&quot; and a &quot;Thunderbolt.&quot; It&rsquo;s a story of contrasts &mdash; here you can visit both the site of a major slave market and a place where African-Americans received the emancipation papers that set them free.<br />
+                                  <br />
+                                  And it is a story of ironies &mdash; of Union troops camping virtually in the front yard of a Confederate <img src="../images/idea-guide-pics/civil-war-lexington.jpg" alt="Civil War History in the Bluegrass Region" width="188" height="260" class="align-right" />general, and of war dividing the family of a statesman who had devoted his life to preserving the Union. In the Bluegrass, you are at the heart of Kentucky&rsquo;s exciting and diverse Civil War heritage. Of the 54 Kentucky sites included in the Civil War Trust&rsquo;s Civil War Discovery Trail commemorating significant sites where visitors can learn about the conflict, 16 are located in Lexington and the Bluegrass region. And with its central location and easy access to major highways, Lexington is the ideal base from which to mount your own Civil War campaign to explore a state whose citizens supported both sides.<br />
+                                </p>
+								<table cellspacing="1" cellpadding="7">
+                                  <tr>
+                                    <td valign="top" bgcolor="#CAF2FF">Bluegrass Note: Of the more than 10,000 military actions of the Civil War, 453 took place in Kentucky, more than in Alabama, North Carolina, South Carolina or Maryland. </td>
+                                  </tr>
+                                </table>
+								<p><br />
+								  Here&rsquo;s a guide to points of interest in Lexington and the region.<br />
+                                    <br />
+                                    <strong>IN LEXINGTON</strong><br />
+                                    <br />
+                                <p><strong>A Union Saved, an Estate Divided</strong></p>
+                                  
+<p>&quot;Had there been one such man in the Congress of the United States as Henry Clay in 1860-&rsquo;61, there would, I feel sure, have been no civil war,&quot; said Sen. Henry S. Foote in 1875.<br />
+  <br />
+  As a Senator and statesmen, Henry Clay (1777-1852), known as &quot;the Great Compromiser,&quot; helped postpone war between the states. But after his death his own family would divide along with the Union. As a result of dissension between Clay&rsquo;s sons and grandsons during the Civil War, his beloved Lexington estate <strong>Ashland</strong> was eventually auctioned. Ashland was also the site of a skirmish following the Battle of Perryville in October 1862.<br />
+  <br />
+  Today, the Clay family home and 20 acres are open for tour as a National Historic Landmark. Ashland is located east of downtown at 120 Sycamore Road. (859) 266-8581</p>
+								</p>
+                                    <p><strong>Home of the Thunderbolt</strong></p>
+                                    
+  <p>The <strong>Hunt-Morgan House</strong>, at 201 N. Mill Street in Lexington&rsquo;s historic Gratz Park neighborhood, was the family home of Gen. John Hunt Morgan, the daring, and reputedly dashing, Confederate raider known as the &quot;Thunderbolt of the Confederacy.&quot; A Civil War museum on the second floor displays swords, saddles, photographs, uniforms and other artifacts from Morgan and his men. (859) 233-3290</p>
+<p>The <strong>Bodley-Bullock Hous</strong>e, across the park from the Hunt-Morgan House at 200 Market Street, served as both Union and Confederate headquarters for Lexington at different times during the war. The house is open for tour by appointment; call (859) 252-8014. Union troops used nearby <strong>Transylvania University</strong> as a hospital and camped in Gratz Park right in front of the Hunt-Morgan House. According to a Bluegrass legend, Morgan once rode up the front steps of the house, kissed his mother in the entry hall and galloped out the back door--with Union soldiers in hot pursuit.</p>
+								<table cellspacing="1" cellpadding="7">
+                                  <tr>
+                                    <td valign="top" bgcolor="#CAF2FF">Bluegrass Note: Morgan and his raiders so fired the public&#146;s imagination that schoolchildren on both sides recited poems about them. The Yankee rhyme was: &quot;I&#146;m sent to warn the neighbors, he&#146;s only a mile behind/He&#146;s sweeping up the horses, every horse that he can find./Morgan, Morgan the Raider and Morgan&#146;s terrible men/With bowie knives and pistols, are galloping up the glen.&quot; Southern children had a different perspective: &quot;I want to be a cavalryman, and with John Hunt Morgan ride/A Colt revolver in my belt, a saber by my side./I want a pair of epaulets to match my suit of gray,/The uniform my mother made and lettered C.S.A.&quot; </td>
+                                  </tr>
+                                </table>
+								<p><strong><br />
+							    The Lincolns Slept Here</strong> </p>
+								<p></p>
+								Abraham Lincoln&#146;s wife, Mary Todd, was born to a prominent Lexington family in 1818. The Georgian house in which she lived from 1832 until 1839 is open for tour, and includes Todd family furnishings and Todd and Lincoln memorabilia.
+                                <p>After their marriage in 1842, the Lincolns visited Lexington several times. Mary Todd&#146;s Lexington heritage followed her to the nation&#146;s capital: the fact that some of her Kentucky relatives, including several of her half-brothers, fought for the Confederacy, aroused suspicion against Mrs. Lincoln in Washington, D.C. </p>
+                                <p>The <strong>Mary Todd Lincoln House</strong> is at 578 West Main Street. (859) 233-9999 </p>
+                                <p><strong>
+                                Insights into Slavery</strong></p>
+                                <b></b>
+                                <p>Slavery was an important part of the antebellum economy in the Bluegrass, where slaves made up about one half of the population. Essential to the operation of the area&#146;s hemp plantations, slaves also were hired out by their owners for factory work and other jobs. Lexington was a major slave market to the Deep South from the 1830s to the 1850s. Original slave quarters at <strong>Waveland State Historic Site</strong> offer insight into the daily life of plantation slaves in antebellum Bluegrass. 225 Waveland Museum Lane. (859) 272-3611 </p>
+                                <p><strong>Cheapside</strong>, located on the west side of the Fayette County Courthouse on Main Street, was the site of both slave auctions and impassioned abolitionist speeches. A small park commemorates the site today.</p>
+                                <p><b>Monumental Reminders</b></p>
+                                <p>More than 500 Confederate and 1,100 Union veterans are buried in the park-like <strong>Lexington Cemetery</strong>, 833 West Main St. They include Confederate General John Hunt Morgan and John C. Breckinridge. Breckinridge was vice-president of the United States under James Buchanan, unsuccessful Presidential candidate against Abraham Lincoln in 1860, and Secretary of War of the Confederate States of America. (859) 255-5522 </p>
+                                <p>Other Lexington Civil War-related monuments include the <strong>statue of Breckinridge</strong> at Cheapside Park, west of the Fayette County Courthouse, and the <strong>John Hunt Morgan statue</strong> on the courthouse lawn. Lexington tradition holds that the unveiling of the Morgan statue in 1911 caused quite a local stir because Morgan is shown astride a stallion instead of his well-known mare Black Bess. </p>
+                                <table cellspacing="1" cellpadding="7">
+                                  <tr>
+                                    <td valign="top" bgcolor="#CAF2FF">Bluegrass Note: Not only were Abraham Lincoln and Confederate President Jefferson Davis both born in Kentucky (less than one year and 100 miles apart), but both spent time in Lexington. Davis attended Transylvania University in 1823 and 1824. Lincoln visited the city several times with his wife, Mary Todd, after their marriage in 1842. </td>
+                                  </tr>
+                                </table>
+                                <p><strong><br />
+                                NEARBY AND NOTEWORTHY<br />
+                                      <br />
+                                </strong><strong>The Bloodiest Battle</strong> </p>
+                                <p><strong>Perryville</strong>, Kentucky, still looks much the same as it did on October 8, 1862. On that hot day during one of Kentucky&#146;s driest summers, both Union and Confederate troops were parched and searching for water when they encountered each other at Doctor&#146;s Fork Creek. Between 2:00 p.m. and 11:00 p.m., 4,211 Union soldiers and 3,396 Confederate soldiers were killed, wounded, captured or missing,giving Perryville the dubious distinction of being Kentucky&#146;s largest and most deadly Civil War battle. <strong>Perryville Battlefield State Historic Site</strong> includes the battleground, museum and a gift shop. The battle is reenacted each year during the first full weekend in October.  Perryville is about 49 miles southwest of Lexington. Take either Harrodsburg Rd. (US 68, through) or Bluegrass Parkway to Exit 59, then US 127 to US 68. (859) 332-8631</p>
+                                <p><b>Battle Plans and a Lion&#146;s Hall</b></p>
+                                <p>The <strong>Battle of Richmond</strong> in 1862, part of the Perryville campaign, was one of the Confederacy&#146;s greatest tactical victories of the war. A self-guided tour brochure and a narrative on CD  of the three engagements are available from the Richmond Tourism Department, 345 Lancaster Ave. (859) 626-8474 </p>
+                                <p>Also of interest in the Richmond area is <strong>White Hall State Historic Site</strong>, home of one of Kentucky&#146;s most outspoken emancipationists, Cassius Marcellus Clay. Clay was a newspaper publisher, Minister to Russia and friend of Lincoln, and was called &quot;the lion of White Hall&quot; for his fiery oratory. (859) 623-9178. Richmond is about 23 miles south of Lexington via I-75. An alternate scenic route is via Ky. 169 (Tates Creek Road), crossing the Kentucky River via the Valley View Ferry. </p>
+                                <p><strong>In Defense of the Kentucky River</strong><br />
+  <p>Towering walls of rock prevented easy crossing of the Kentucky River, but Confederate soldiers still managed to cross and recross by ford or ferry, creating havoc for Union Forces. In 1863, African American soldiers constructed fortifications high above the ford and ferry at Boonesboro, entirely by hand. The <strong>Civil War Fort at Boonesboro</strong>, part of a network of small defensive works proposed by Union Captain Thomas B. Brooks, never mounted permanent artillery. The Civil War Fort is 17 miles from Lexington. Head out Richmond Road all the way to the River. At 1924, turn right and go 1 mile. The colorful murals of the parking lot will be on your left. 1250 Ford Road, Winchester. (859) 527-3131<br />
+                                </p>
+                                <b></b>
+                                <p><b><strong>Capital Collections</strong> </b></p>
+                                <p>The <strong>Kentucky Military History Museum</strong> on East Main Street in Frankfort includes an extraordinary collection of Civil War weapons, flags, uniforms and other artifacts. The building itself was a Union cartridge factory and supply center. (502) 564-3265 </p>
+                                <p>Several other war-related sites are found in Kentucky&#146;s capital city. The <strong>Kentucky State Capitol Rotunda</strong> on Capitol Avenue, includes statues of Abraham Lincoln and Jefferson Davis. Federal reparation payments for war damage actually helped pay for the building. (502) 564-3449 </p>
+                                <p>The Old State Capitol, Broadway and Lewis streets in Frankfort, includes some Civil War memorabilia. Another point of interest is the Frankfort Cemetery, with its stately Confederate Memorial and wall memorial to all heroic Kentucky war veterans.  215 E. Main St. (502) 227-2403. Frankfort is about 27 miles west of Lexington via I-64. For a scenic alternative take Old Frankfort Pike and US 60. <b></b></p>
+                                <table cellspacing="1" cellpadding="7">
+                                  <tr>
+                                    <td valign="top" bgcolor="#CAF2FF">Bluegrass Note: Although as a state Kentucky did not secede, 63 counties did &#150; setting up a Confederate government at Bowling Green in Western Kentucky. A Bluegrass Kentuckian, George W. Johnson of Scott County, was elected first Confederate Governor of Kentucky. Johnson is buried in the Georgetown Cemetery. </td>
+                                  </tr>
+                                </table>
+                                <p><b><br />
+                                On the Road with the Raiders</b></p>
+                                <p></p>
+                                <p>Col. John Hunt Morgan&#146;s forays included 1862 and 1864 battles in and around the small town of Cynthiana in Harrison County. In the 1862 raid the Confederates captured the town, but in 1864, they were forced to retreat, for all practical purposes ending Morgan&#146;s raids in the state. A self-guided driving tour of the <strong>Cynthiana Battle</strong>s is available from the Cynthiana/ Harrison County Chamber of Commerce, 201 South Main St. (859) 234-5236</p>
+                           
+                                <p><strong>Enlistment and Emancipation </strong></p>
+      <p>When the Union began to draft African-Americans into the army in 1864, <strong>Camp Nelson</strong>, located south of Nicholasville in Jessamine County, was the state&rsquo;s most important recruiting station. Thousands of African-Americans and their families traveled to the camp for enlistment &ndash; and freedom. The installation also served as a refuge for the soldiers&rsquo; families. John Fee, a founder of Berea College, established schools and churches for the African-Americans at Camp Nelson. Camp Nelson also was the state&rsquo;s chief center for the issuance of emancipation papers to former slaves. Four thousand Civil War soldiers are buried in the national cemetery located on part of the camp site. A 5 mile trail gives an overview of the supply depot and the northern line of defense. The restored officers quarters are open Tuesday through Saturday, 10-5. (859) 881-5716. Camp Nelson is located off US 27, about 20 miles south of Lexington.</p>
+      <table cellspacing="1" cellpadding="7">
+        <tr>
+          <td valign="top" bgcolor="#CAF2FF">Bluegrass Note: More than 30,000 men left their Kentucky homes to fight for the Confederacy. Twice that many Kentuckians fought for the North, including 20,000 African-Americans, the second-highest number among all the states. </td>
+        </tr>
+      </table>
+      <p><strong><br />
+        From Pacifists to Pioneers</strong><br />
+<p>At <strong>Shaker Village of Pleasant Hill</strong>, the pacifist Shakers provided food, supplies and medical treatment to troops from both sides. The village&rsquo;s interpretive center includes information about the impact of the war. Every other year  the village holds a Civil War weekend with living interpretations of camp life, medical care and other aspects of the era. (859) 734-5411; toll-free (800) 734-5611</p>
+<p><strong>Old Fort Harrod State Park</strong> in Harrodsburg includes a museum with Civil War artifacts and the cabin in which Lincoln&rsquo;s parents were married. (859) 734-3314  Shaker Village of Pleasant Hill is 25 miles southwest of Lexington via US 68. Continue on US 68 a few miles to Harrodsburg.</p>
+      <table cellspacing="1" cellpadding="7">
+        <tr>
+          <td valign="top" bgcolor="#CAF2FF">Bluegrass Note: Lt. William R. McEntire, a Southern commander at the final surrender of the Cumberland Gap to the Union on Sept. 9, 1863, had an unusual deathbed request. He asked his grandson to return to the gap 100 years after the surrender, stand at the pinnacle and curse the Yankees for five minutes, which the grandson did on Sept. 9, 1963. </td>
+        </tr>
+      </table>
+     <p><strong><br />
+        Beyond the Bluegrass</strong>      
+     <p>Lexington can also be an ideal base from which to explore some of Kentucky&rsquo;s other Civil War sites.</p>
+      <ul>
+        <li><strong>The Abraham Lincoln Birthplace National Historic Site</strong> features 116 acres of the farm where Lincoln was born and a granite memorial shrine enclosing a cabin symbolic of the one in which Abraham Lincoln was born in 1809. The park is located in Hodgenville, Kentucky, 83 miles west of Lexington. (270) 358-3137.Take Bluegrass Parkway to US 31E. </li>
+      </ul>
+      <ul>
+        <li>The earthwork forts at <strong>Cumberland Gap National Historical Park</strong> were used by both Union and Confederate troops. Of strategic importance to both sides, this pioneer gateway to Kentucky changed hands several times during the war. (606) 248-2817. About 2 1/2 hours south of Lexington via I-75 and US25 E. </li>
+      </ul>
+      <ul>
+        <li>The <strong>National Underground Railroad Museum</strong> in Maysville, north of Lexington, features exhibits about slavery and the escape route used by thousands of slaves. (606) 564-3200. About 65 miles north of Lexington via US 68. Tours by appointment. </li>
+      </ul>
+      <br>For more information contact the Lexington Convention and Visitors Bureau at 800-845-3959 <br />
+      <p><em>By Teresa Day, a freelance writer based in Georgetown, KY.<br />
+  Updated: May 2011</em></p>
+      <div align="center">
+        <p align="center">Give us your email address and we'll keep you informed about any special offers from area hotels and attractions, as well as unique events related to your special areas of interest. You can &quot;unsubscribe&quot; at any time <a href="../mail/vaform.php">. Click here to register. </a></p>
+        <p>&nbsp; <a href="#Top">Top of Page </a></p>
+      </div>
+      <!-- InstanceEndEditable -->
+                                </div>
+						  </div>
+						  <br/><br/>
+						</div>
+						
+						<div class="footer-cont"> <a href="/index.php">&laquo; back to home</a> </div>											
+						
+					</div>
+					
+					
+					
+				</div>
+				
+				<hr/>
+				
+				<div id="side">
+					
+<ul id="nav">
+	<li class="first"><a href="/whattodo/index.php">What to Do</a></li>
+	<li><a href="/wheretostay/index.php">Where to Stay</a></li>
+	<li><a href="/about/index.php">About Lexington</a></li>
+	<li><a href="/idea/index.php">Idea Guide</a></li>
+	<li class="last"><a href="/maps.php">Maps &amp; Directions</a></li>
+</ul>					
+					
+<div id="calback">
+	<div id="calendar"></div>
+</div>
+
+<br/><br/><p class="side-event"><span class="etitle">Mar 14, 2012 - Mar 17, 2012<br/><strong>Boys Sweet Sixteen Tournament</strong></span>
+        <!--<br /> 
+PNC/KHSAA Sweet 16 Boys State Basketball Tournament.&nbsp;...--><br />
+        <a href="../events/index.php?PickedEID=9123">Get the Details</a>
+    </p><p class="side-event"><span class="etitle">Mar 16, 2012 - Mar 18, 2012<br/><strong>Blue Grass Trust Antiques...</strong></span>
+        <!--<br />&nbsp;
+New location this year! The Alltech Arena at...--><br />
+        <a href="../events/index.php?PickedEID=9122">Get the Details</a>
+    </p>
+<a href="/region.php"><img src="../images/map.png" alt="Bluegrass Region Map" /></a>
+
+<br/><br/>
+
+<a href="/savelist.php"><img src="../images/ad-planner.png" alt="My Planner" /></a>
+
+<a href="/video.php"><img src="../images/ad-video.png" alt="Lex Treks Webisodes" /></a>
+
+<a href="/blog"><img src="../images/ad-blog.png" alt="Lex Blogs" /></a>
+
+<!--<a href="/contact.php"><img src="../images/ad-contact.png" alt="LCVB Contacts" /></a>-->
+
+<!--<img class="planner" src="images/planner-b.jpg" alt="My Planner" />-->				</div>
+				
+				<div class="clear"></div>
+			
+			</div>
+		
+			<hr />
+				
+			
+<div id="photos">
+	<div id="contact">
+		<a href="/contact.php"><img alt="Contact - For More Lex Info" src="/images/ad-contact.png"/></a>
+	</div>
+	<div id="gallery">
+<a href="/images/albumphotos/Alb_35615405888rD7vbTdB5lvQ.jpg" rel="group1">
+          <img alt="Jockey Up" src="/images/albumphotos/tn2/Alb_35615405888rD7vbTdB5lvQ.jpg" /></a><a href="/images/albumphotos/Alb_318161113a78UrDaa3p4o3r.jpg" rel="group1">
+          <img alt="Keeneland Spring Race Meet" src="/images/albumphotos/tn2/Alb_318161113a78UrDaa3p4o3r.jpg" /></a><a href="/images/albumphotos/Alb_3191251335f5t5K4jxS9Wa7.jpg" rel="group1">
+          <img alt="Scavenger Hunt!" src="/images/albumphotos/tn2/Alb_3191251335f5t5K4jxS9Wa7.jpg" /></a><a href="/images/albumphotos/Alb_318155617fb5luz5K3N05pw.jpg" rel="group1">
+          <img alt="Historic Courthouse" src="/images/albumphotos/tn2/Alb_318155617fb5luz5K3N05pw.jpg" /></a>
+	</div>
+				
+	<a class="seeall" href="/photos"><img id="viewall" src="/images/view-p.jpg" /></a>
+				
+				<div class="clear"></div>
+			</div>
+<div id="footer">
+
+	<div id="top-foot">
+		<div class="fleft">
+			<ul>
+			<li class="head">Contact Us</li>
+			<li>Lexington Convention and Visitors Bureau</li>
+			<li>301 East Vine Street</li>
+			<li>Lexington, Kentucky USA</li>
+			<li>40507-1513</li>
+			<li>Toll Free: 1-800-848-1224</li>
+			<li>Locally: 859-233-1221</li>
+			</ul>
+		
+			<ul>
+			<li class="head">Visitor Info</li>
+			<li>Toll Free: 1-800-845-3959</li>
+			<li>Locally: 859-233-7299</li>
+			</ul>
+		
+		
+			<div class="wXbody" style='width: 120px; height: 60px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/gold_120x60_bg.jpg ); background-repeat: no-repeat; background-color: #C39E6E;' ><div style='height: 48px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2.asp?partner=netweather&tStyle=whteYell&logo=0&zipcode=40505&lang=eng&size=7&theme=gold&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 10px; line-height: 12px; color: #FFFFFF;' ><a href='http://www.accuweather.com/us/ky/lexington/40507/city-weather-forecast.asp?partner=accuweather&u=1&traveler=0' target="_blank" style='color: #FFFFFF' >Weather Forecast</a></div>
+			</div>
+		<div class="clear"></div>
+		</div>
+		
+		<div class="fright">
+		
+		<a href="/mail/vaform.php"><img src="/images/footer-visitors.jpg" alt="Contact Us For Your Free Visitor Guide!" /></a>
+		<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="bottom-foot">
+		<a target="_blank" href="/ambassador.php"><img src="/images/bg-tourism.jpg" alt="Bluegrass Tourism ~ Ambassador Program"/></a>
+		<a target="_blank" href="http://www.kentuckytourism.com"><img src="/images/kylogo.gif" alt="Kentucky's Unbridled Spirit"/></a>
+		<a target="_blank" href="#"><img src="/images/acc-logo.gif" alt="Accredited by DMAI"/></a>
+		<a target="_blank" href="http://www.youtube.com/user/LexKyCVB"><img src="/images/youtube.gif" alt="See Lexington on Youtube"/></a>
+		<a target="_blank" href="http://www.facebook.com/pages/Lexington-KY/Lexington-Convention-and-Visitors-Bureau/14354349197"><img src="/images/facebook.gif" alt="Visit our Facebook page"/></a>
+		<a target="_blank" href="http://twitter.com/Big_Lex_KY"><img src="/images/twitter.gif" alt="Follow us on Twitter"/></a>
+	</div>
+	
+	<div id="copyright-info">
+		<a class="acenter" href="/wheretostay/index.php">Hotels in Lexington KY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="acenter" href="/whattodo/attractions.php">Things to do in Lexington</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="acenter" href="/bourbon-trail.php">Bourbons of the Bluegrass</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="acenter" href="/idea/historic-homes.php">Historic Sites</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="acenter" href="/idea/horse-farms.php">Horse Farm Tours</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="acenter" href="/whattodo/attractions.php">Lexington Attractions</a>
+		<br/><br/>Get advice from real travelers for your <a class="acenter" href="http://www.tripadvisor.com/Tourism-g39588-Lexington_Kentucky-Vacations.html">Lexington </a>vacation.&nbsp;&nbsp;<a class="acenter" target="_blank" href="http://www.tripadvisor.com/"><img src=http://www.tripadvisor.com/img/cdsi/partner/tripAdvisorLogo-12024-0.gif alt="TripAdvisor" border="0"></a>
+		<br/><br/>&copy; 2012 Lexington Convention and Visitors Bureau&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="acenter" href="http://www.visitlex.com/privacy-policy.php">Privacy Policy</a>
+	</div>
+	
+</div>
+<script language="JavaScript">
+flowplayer("player", "/flowplayer/flowplayer-3.2.7.swf");
+</script>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-222736-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>					
+		</div>
+	
+	</div>
+
+</body>
+<!-- InstanceEnd --></html>
